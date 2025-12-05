@@ -5,9 +5,9 @@
 
 <div align="center">
   <p>
-    <span style="color:#ff13f0;">Coding my way through Holberton</span><br/>
-    <span style="color:#a855f7;">Powered by C, curiosity &amp; questionable amounts of coffee</span><br/>
-    <span style="color:#06b6d4;">Always learning. Always debugging. Always building.</span>
+    <span style="color:#FF1AFF;">Coding my way through Holberton</span><br/>
+    <span style="color:#FFCC00;">Powered by C, curiosity &amp; questionable amounts of coffee</span><br/>
+    <span style="color:#6480FF;">Always learning. Always debugging. Always building.</span>
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
   <h2>
-    <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4,#22c55e); -webkit-background-clip:text; color:transparent;">
+    <span style="background: linear-gradient(90deg, #FFCC00, #FF1AFF, #89E051, #6480FF); -webkit-background-clip:text; color:transparent;">
       Web Dev Student • Holberton
     </span>
   </h2>
@@ -23,17 +23,17 @@
   <p>
     <!-- Rôle -->
     <img
-      src="https://img.shields.io/badge/Role-Web%20Dev%20Student-ff2e88?style=for-the-badge&logo=github&logoColor=ffffff"
+      src="https://img.shields.io/badge/Role-Web%20Dev%20Student-89E051?style=for-the-badge&logo=github&logoColor=ffffff"
       alt="Role badge"
     />
     <!-- École -->
     <img
-      src="https://img.shields.io/badge/School-Holberton%20School-a855f7?style=for-the-badge&logo=linux&logoColor=ffffff"
+      src="https://img.shields.io/badge/School-Holberton%20School-FF1AFF?style=for-the-badge&logo=linux&logoColor=ffffff"
       alt="Holberton badge"
     />
     <!-- Localisation -->
     <img
-      src="https://img.shields.io/badge/Location-France-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=ffffff"
+      src="https://img.shields.io/badge/Location-France-FFCC00?style=for-the-badge&logo=googlemaps&logoColor=ffffff"
       alt="Location badge"
     />
   </p>
@@ -41,7 +41,7 @@
   <!-- Animation de texte (typo dev) -->
   <p>
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&random=false&width=500&lines=Learning+C+%26+low-level;Building+my+web+dev+journey;Debugging+with+coffee+and+chaos"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&random=false&width=500&color=FF1AFF&cursorColor=6480FF&lines=Learning+C+%26+low-level;Building+my+web+dev+journey;Debugging+with+coffee+and+chaos"
       alt="Typing animation"
     />
   </p>
