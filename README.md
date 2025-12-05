@@ -197,4 +197,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=monokai&utcOffset=1" />
 </p>
-
+<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/demo.png" width="500">
