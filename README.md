@@ -110,59 +110,112 @@
 
 ---
 
-<!-- SUMMARY CARDS - NEON TECH -->
-<h2 align="center">GitHub overview ☄️</h2>
+<!-- NEON DASHBOARD -->
+<h2 align="center">Neon dev dashboard ⚡</h2>
+
+<div align="center">
+  <p>
+    <span style="
+      background: linear-gradient(90deg,#22c55e,#06b6d4,#a855f7,#ec4899);
+      -webkit-background-clip:text;
+      color:transparent;
+      font-size: 18px;
+      font-weight: 700;
+    ">
+      From low-level C to full-stack web • Holberton journey in progress
+    </span>
+  </p>
+</div>
+
+<!-- GRID -->
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+">
+
+  <!-- CARD 1 : CURRENT MODE -->
+  <div style="
+    min-width:260px;
+    max-width:320px;
+    background:#020617;
+    border:1px solid #22c55e;
+    border-radius:16px;
+    padding:16px 18px;
+    box-shadow:0 0 18px #22c55e55;
+    text-align:left;
+  ">
+    <h3 style="margin-top:0; color:#22c55e;">Current mode 🧠</h3>
+    <ul style="color:#e5e7eb; font-size:14px; line-height:1.5;">
+      <li><strong>C / low-level</strong> : fonctions custom, gestion mémoire, architecture propre</li>
+      <li><strong>Shell</strong> : outils, scripts et confort en ligne de commande</li>
+      <li><strong>Git flow</strong> : branches propres, commits clairs, projets structurés</li>
+    </ul>
+  </div>
+
+  <!-- CARD 2 : HOOLBERTON SPRINT -->
+  <div style="
+    min-width:260px;
+    max-width:320px;
+    background:#020617;
+    border:1px solid #06b6d4;
+    border-radius:16px;
+    padding:16px 18px;
+    box-shadow:0 0 18px #06b6d455;
+    text-align:left;
+  ">
+    <h3 style="margin-top:0; color:#06b6d4;">Holberton sprint 🚀</h3>
+    <ul style="color:#e5e7eb; font-size:14px; line-height:1.5;">
+      <li><strong>Now</strong> : projets low-level C &amp; Shell</li>
+      <li><strong>Next</strong> : renforcer les bases algorithmiques et les structures de données</li>
+      <li><strong>Later</strong> : monter en puissance sur le full-stack web</li>
+    </ul>
+  </div>
+
+  <!-- CARD 3 : STACK HIGHLIGHTS -->
+  <div style="
+    min-width:260px;
+    max-width:320px;
+    background:#020617;
+    border:1px solid #a855f7;
+    border-radius:16px;
+    padding:16px 18px;
+    box-shadow:0 0 18px #a855f755;
+    text-align:left;
+  ">
+    <h3 style="margin-top:0; color:#a855f7;">Stack highlights 💾</h3>
+    <p style="color:#e5e7eb; font-size:14px; line-height:1.5;">
+      <strong>Low-level</strong> : C, pointeurs, fonctions custom, logique proche de la machine.<br/>
+      <strong>Web</strong> : HTML5, CSS3, JavaScript – fondations en construction.<br/>
+      <strong>Tools</strong> : Git, GitHub, VS Code, Shell.
+    </p>
+  </div>
+
+  <!-- CARD 4 : NEXT MILESTONES -->
+  <div style="
+    min-width:260px;
+    max-width:320px;
+    background:#020617;
+    border:1px solid #ec4899;
+    border-radius:16px;
+    padding:16px 18px;
+    box-shadow:0 0 18px #ec489955;
+    text-align:left;
+  ">
+    <h3 style="margin-top:0; color:#ec4899;">Next milestones 🎯</h3>
+    <ul style="color:#e5e7eb; font-size:14px; line-height:1.5;">
+      <li>Stabiliser un <strong>_printf</strong> propre et documenté</li>
+      <li>Poser les bases d’un <strong>portfolio dev</strong> from scratch</li>
+      <li>Multiplier les <strong>side projects</strong> pour monter en XP</li>
+    </ul>
+  </div>
+
+</div>
+
+<br/>
 
 <p align="center">
-  <!-- Vue d’ensemble du profil -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=radical"
-    alt="GitHub profile details"
-  />
+  <strong style="color:#22c55e;">🚀 Holberton is just the beginning.</strong><br/>
+  <em style="color:#e5e7eb;">Neon dev mode ON : one project, one refactor, one commit at a time.</em>
 </p>
-
-<p align="center">
-  <!-- Langages les plus utilisés -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=radical"
-    alt="Repos per language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=radical"
-    alt="Most commit language"
-  />
-</p>
-
-<p align="center">
-  <!-- Stats générales + temps productif -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=radical"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=radical&utcOffset=1"
-    alt="Productive time"
-  />
-</p>
-
-<p align="center">
-  <!-- Streak en mode néon -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GwenP88&theme=tokyonight_duo&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <!-- Trophées -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=radical&no-frame=true&row=1&column=6"
-    alt="GitHub trophies"
-  />
-</p>
-
-<p align="center">
-  <strong>🚀 Holberton is just the beginning.</strong><br/>
-  <em>Neon dev mode: from low-level C to full-stack, one commit at a time.</em>
-</p>
-
