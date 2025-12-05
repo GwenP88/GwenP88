@@ -110,32 +110,59 @@
 
 ---
 
-<!-- SUMMARY CARDS -->
+<!-- SUMMARY CARDS - NEON TECH -->
+<h2 align="center">GitHub overview ☄️</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=github_dark" />
+  <!-- Vue d’ensemble du profil -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=radical"
+    alt="GitHub profile details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=github_dark" />
+  <!-- Langages les plus utilisés -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=radical"
+    alt="Repos per language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=radical"
+    alt="Most commit language"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=github_dark&utcOffset=1" />
+  <!-- Stats générales + temps productif -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=radical"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=radical&utcOffset=1"
+    alt="Productive time"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GwenP88&theme=github-dark&hide_border=true" />
+  <!-- Streak en mode néon -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GwenP88&theme=tokyonight_duo&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=github&no-frame=true&row=1&column=6" />
+  <!-- Trophées -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=radical&no-frame=true&row=1&column=6"
+    alt="GitHub trophies"
+  />
 </p>
 
 <p align="center">
   <strong>🚀 Holberton is just the beginning.</strong><br/>
-  <em>Follow the journey: from low-level C to full-stack web dev, one commit at a time.</em>
+  <em>Neon dev mode: from low-level C to full-stack, one commit at a time.</em>
 </p>
-
 
