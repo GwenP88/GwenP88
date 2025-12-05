@@ -1,22 +1,4 @@
-## Hi there 👋
-
-<!--
-**GwenP88/GwenP88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**GwenP88/GwenP88** profile README
--->
+## Crafting code, one project at a time ⚙️
 
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
@@ -38,18 +20,21 @@ Here are some ideas to get you started:
 ---
 
 <!-- ABOUT ME -->
-<h2 align="center">About me</h2>
+<h2 align="center">About me ✨</h2>
 
 <p align="center">
-  I am a web development student focusing on C, low-level concepts, and modern front-end tools.
-  I love learning by doing: building projects, refactoring, and documenting my journey on GitHub.
+  <em>This repository is special because its <strong>README.md</strong> appears on my GitHub profile.</em>
 </p>
 
-<p align="center">
-  🔭 Currently working on: <strong>Holberton low-level projects (_printf, shell, data structures...)</strong><br/>
-  🌱 Currently learning: <strong>C, algorithms, web fundamentals</strong><br/>
-  📚 Next goals: <strong>Build a strong portfolio of C and JS projects</strong>
-</p>
+<ul>
+  <li>🔭 <strong>I’m currently working on :</strong> Holberton School low-level projects (C, algorithms, _printf, shell)</li>
+  <li>🌱 <strong>I’m currently learning :</strong> C programming, data structures, web fundamentals</li>
+  <li>👯 <strong>I’m looking to collaborate on :</strong> small C or web-side projects to improve my skills</li>
+  <li>🤔 <strong>I’m looking for help with :</strong> mastering advanced C concepts and clean architecture</li>
+  <li>💬 <strong>Ask me about :</strong> my journey, Holberton School, or my projects</li>
+  <li>📫 <strong>How to reach me :</strong> (LinkedIn link / portfolio link when ready)</li>
+  <li>⚡ <strong>Fun fact :</strong> I love solving problems step by step — just like untangling code.</li>
+</ul>
 
 ---
 
@@ -127,17 +112,3 @@ Here are some ideas to get you started:
   />
 </p>
 
----
-
-<!-- CONTACT -->
-<h2 align="center">Get in touch</h2>
-
-<p align="center">
-  <!-- Remplace # par les vrais liens quand tu veux -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
