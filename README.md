@@ -1,3 +1,5 @@
+![Shell Basics Banner](/assets/holberton.png)
+
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
