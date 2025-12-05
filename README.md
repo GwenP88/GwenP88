@@ -22,18 +22,14 @@
 <!-- ABOUT ME -->
 <h2 align="center">About me ✨</h2>
 
-<p align="center">
-  <em>This repository is special because its <strong>README.md</strong> appears on my GitHub profile.</em>
-</p>
-
 <ul>
-  <li>🔭 <strong>I’m currently working on :</strong> Holberton School low-level projects (C, algorithms, _printf, shell)</li>
-  <li>🌱 <strong>I’m currently learning :</strong> C programming, data structures, web fundamentals</li>
-  <li>👯 <strong>I’m looking to collaborate on :</strong> small C or web-side projects to improve my skills</li>
-  <li>🤔 <strong>I’m looking for help with :</strong> mastering advanced C concepts and clean architecture</li>
-  <li>💬 <strong>Ask me about :</strong> my journey, Holberton School, or my projects</li>
-  <li>📫 <strong>How to reach me :</strong> (LinkedIn link / portfolio link when ready)</li>
-  <li>⚡ <strong>Fun fact :</strong> I love solving problems step by step — just like untangling code.</li>
+  <li>🔭 <strong>Currently working on :</strong> surviving Holberton’s low-level projects (yes, I chose this life)</li>
+  <li>🌱 <strong>Currently learning :</strong> how to convince my brain that pointers are my friends, not enemies</li>
+  <li>👯 <strong>Looking to collaborate on :</strong> small C or web projects — bonus points if we can debug together without crying</li>
+  <li>🤔 <strong>Looking for help with :</strong> mastering advanced C concepts and writing clean architecture instead of accidental spaghetti code</li>
+  <li>💬 <strong>Ask me about :</strong> my journey, Holberton School, or how you learn to enjoy the challenges that weren’t originally part of the plan</li>
+  <li>📫 <strong>Reach me at :</strong> (LinkedIn / portfolio coming soon — work in progress, just like me)</li>
+  <li>⚡ <strong>Fun fact :</strong> I fix bugs the same way I make coffee: step by step, with determination and a hint of chaos</li>
 </ul>
 
 ---
