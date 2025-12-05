@@ -3,10 +3,10 @@
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
-<p align="center" style="color:#ff13f0;">
-  Web development student<br/>
-  Holberton School | C &amp; Web Full Stack<br/>
-  Always learning and building projects
+<p align="center">
+  <font color="#ff13f0">Web development student</font><br/>
+  <font color="#ff13f0">Holberton School | C &amp; Web Full Stack</font><br/>
+  <font color="#ff13f0">Always learning and building projects</font>
 </p>
 
 <!-- TECH BADGES + ANIMATION -->
