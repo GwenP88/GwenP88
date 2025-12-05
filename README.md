@@ -16,7 +16,7 @@
   <!-- Titre avec effet néon/gradient -->
   <h2>
     <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4,#22c55e); -webkit-background-clip:text; color:transparent;">
-      Web Dev Student • Holberton • Neon Tech Vibes
+      Web Dev Student • Holberton
     </span>
   </h2>
 
