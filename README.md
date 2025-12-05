@@ -3,11 +3,13 @@
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
-<p align="center">
-  <font color="#ff13f0">Coding my way through Holberton</font><br/>
-  <font color="#a855f7">Powered by C, curiosity &amp; questionable amounts of coffee</font><br/>
-  <font color="#06b6d4">Always learning. Always debugging. Always building.</font>
-</p>
+<div align="center">
+  <p>
+    <span style="color:#ff13f0;">Coding my way through Holberton</span><br/>
+    <span style="color:#a855f7;">Powered by C, curiosity &amp; questionable amounts of coffee</span><br/>
+    <span style="color:#06b6d4;">Always learning. Always debugging. Always building.</span>
+  </p>
+</div>
 
 <!-- TECH BADGES + ANIMATION -->
 <div align="center">
