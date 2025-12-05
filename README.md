@@ -3,18 +3,10 @@
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
-<p align="center">
-  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
-    Web development student
-  </span>
-  <br/>
-  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
-    Holberton School | C &amp; Web Full Stack
-  </span>
-  <br/>
-  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
-    Always learning and building projects
-  </span>
+<p align="center" style="color:#ff2e88;">
+  Web development student<br/>
+  Holberton School | C &amp; Web Full Stack<br/>
+  Always learning and building projects
 </p>
 
 <!-- TECH BADGES + ANIMATION -->
