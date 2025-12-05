@@ -4,10 +4,17 @@
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF13F0&center=true&vCenter=true&random=false&width=600&lines=Web+development+student;Holberton+School+%7C+C+%26+Web+Full+Stack;Always+learning+and+building+projects"
-    alt="Typing animation"
-  />
+  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
+    Web development student
+  </span>
+  <br/>
+  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
+    Holberton School | C &amp; Web Full Stack
+  </span>
+  <br/>
+  <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4); -webkit-background-clip:text; color:transparent;">
+    Always learning and building projects
+  </span>
 </p>
 
 <!-- TECH BADGES + ANIMATION -->
