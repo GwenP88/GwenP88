@@ -5,8 +5,8 @@
 
 <p align="center">
   <font color="#ff13f0">Web development student</font><br/>
-  <font color="#ff13f0">Holberton School | C &amp; Web Full Stack</font><br/>
-  <font color="#ff13f0">Always learning and building projects</font>
+  <font color="#a855f7">Holberton School | C &amp; Web Full Stack</font><br/>
+  <font color="#06b6d4">Always learning and building projects</font>
 </p>
 
 <!-- TECH BADGES + ANIMATION -->
