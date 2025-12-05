@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   </span>
 </h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gwen&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gwen&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gwen&theme=radical" alt="Commits per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gwen&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gwen&theme=radical&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=radical" alt="Commits per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=radical&utcOffset=1" alt="Productive Time" />
 </p>
