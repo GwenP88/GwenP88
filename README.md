@@ -10,12 +10,44 @@
   />
 </p>
 
-<!-- BADGES RAPIDES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Web%20Dev%20Student-ff2e88?style=for-the-badge" alt="Role badge" />
-  <img src="https://img.shields.io/badge/School-Holberton%20School-a855f7?style=for-the-badge" alt="Holberton badge" />
-  <img src="https://img.shields.io/badge/Location-France-06b6d4?style=for-the-badge" alt="Location badge" />
-</p>
+<!-- TECH BADGES + ANIMATION -->
+<div align="center">
+
+  <!-- Titre avec effet néon/gradient -->
+  <h2>
+    <span style="background: linear-gradient(90deg,#ff2e88,#a855f7,#06b6d4,#22c55e); -webkit-background-clip:text; color:transparent;">
+      Web Dev Student • Holberton • Neon Tech Vibes
+    </span>
+  </h2>
+
+  <!-- Badges néon avec logos -->
+  <p>
+    <!-- Rôle -->
+    <img
+      src="https://img.shields.io/badge/Role-Web%20Dev%20Student-ff2e88?style=for-the-badge&logo=github&logoColor=ffffff"
+      alt="Role badge"
+    />
+    <!-- École -->
+    <img
+      src="https://img.shields.io/badge/School-Holberton%20School-a855f7?style=for-the-badge&logo=linux&logoColor=ffffff"
+      alt="Holberton badge"
+    />
+    <!-- Localisation -->
+    <img
+      src="https://img.shields.io/badge/Location-France-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=ffffff"
+      alt="Location badge"
+    />
+  </p>
+
+  <!-- Animation de texte (typo dev) -->
+  <p>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&random=false&width=500&lines=Learning+C+%26+low-level;Building+my+web+dev+journey;Debugging+with+coffee+and+chaos"
+      alt="Typing animation"
+    />
+  </p>
+
+</div>
 
 ---
 
