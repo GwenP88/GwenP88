@@ -125,50 +125,27 @@
   />
 </p>
 
-<!-- SUMMARY CARDS EN THEME 2077 -->
+<!-- SUMMARY CARDS -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=2077"
-    alt="Profile Details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=2077"
-    alt="Repos per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=2077"
-    alt="Most Commit Language"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=2077"
-    alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=2077&utcOffset=1"
-    alt="Productive Time"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=tokyonight&utcOffset=1" />
 </p>
 
 ---
 
-<!-- STREAKS (pas de theme 2077, on prend un proche: tokyonight) -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=GwenP88&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GwenP88&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- TROPHIES (pas de theme 2077 non plus, on reste sur tokyonight) -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
