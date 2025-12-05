@@ -91,7 +91,7 @@
   />
   <!-- 5 : JavaScript -->
   <img
-    src="https://img.shields.io/badge/JavaScript-FF1AFF?style=for-the-badge&logo=javascript&logoColor=000000"
+    src="https://img.shields.io/badge/JavaScript-6480FF?style=for-the-badge&logo=javascript&logoColor=000000"
     alt="JavaScript"
   />
 </p>
@@ -109,7 +109,7 @@
   />
   <!-- 8 : VS Code -->
   <img
-    src="https://img.shields.io/badge/VS%20Code-FFCC00?style=for-the-badge&logo=visual-studio-code&logoColor=000000"
+    src="https://img.shields.io/badge/VS%20Code-FF1AFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000"
     alt="VS Code"
   />
 </p>
