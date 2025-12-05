@@ -12,9 +12,9 @@
 
 <!-- BADGES RAPIDES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Web%20Dev%20Student-f97316?style=for-the-badge" alt="Role badge" />
-  <img src="https://img.shields.io/badge/School-Holberton%20School-0ea5e9?style=for-the-badge" alt="Holberton badge" />
-  <img src="https://img.shields.io/badge/Location-France-22c55e?style=for-the-badge" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Role-Web%20Dev%20Student-ff2e88?style=for-the-badge" alt="Role badge" />
+  <img src="https://img.shields.io/badge/School-Holberton%20School-a855f7?style=for-the-badge" alt="Holberton badge" />
+  <img src="https://img.shields.io/badge/Location-France-06b6d4?style=for-the-badge" alt="Location badge" />
 </p>
 
 ---
