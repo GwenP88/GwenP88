@@ -66,28 +66,28 @@
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">Tech stack</h2>
+<h2 align="center" style="color:#FF1AFF;">Tech stack</h2>
 
 <p align="center">
   <!-- Langages -->
   <img
-    src="https://img.shields.io/badge/C-06b6d4?style=for-the-badge&logo=c&logoColor=ffffff"
+    src="https://img.shields.io/badge/C-6480FF?style=for-the-badge&logo=c&logoColor=ffffff"
     alt="C"
   />
   <img
-    src="https://img.shields.io/badge/Shell-a855f7?style=for-the-badge&logo=gnu-bash&logoColor=ffffff"
+    src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=141439"
     alt="Shell"
   />
   <img
-    src="https://img.shields.io/badge/HTML5-ff2e88?style=for-the-badge&logo=html5&logoColor=ffffff"
+    src="https://img.shields.io/badge/HTML5-FF1AFF?style=for-the-badge&logo=html5&logoColor=141439"
     alt="HTML5"
   />
   <img
-    src="https://img.shields.io/badge/CSS3-a855f7?style=for-the-badge&logo=css3&logoColor=ffffff"
+    src="https://img.shields.io/badge/CSS3-6480FF?style=for-the-badge&logo=css3&logoColor=ffffff"
     alt="CSS3"
   />
   <img
-    src="https://img.shields.io/badge/JavaScript-06b6d4?style=for-the-badge&logo=javascript&logoColor=000000"
+    src="https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=141439"
     alt="JavaScript"
   />
 </p>
@@ -95,15 +95,15 @@
 <p align="center">
   <!-- Outils -->
   <img
-    src="https://img.shields.io/badge/Git-ff2e88?style=for-the-badge&logo=git&logoColor=ffffff"
+    src="https://img.shields.io/badge/Git-FF1AFF?style=for-the-badge&logo=git&logoColor=141439"
     alt="Git"
   />
   <img
-    src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=ffffff"
+    src="https://img.shields.io/badge/GitHub-141439?style=for-the-badge&logo=github&logoColor=FFCC00"
     alt="GitHub"
   />
   <img
-    src="https://img.shields.io/badge/VS%20Code-06b6d4?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"
+    src="https://img.shields.io/badge/VS%20Code-6480FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"
     alt="VS Code"
   />
 </p>
