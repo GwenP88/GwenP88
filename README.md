@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&random=false&width=600&lines=Web+development+student;Holberton+School+%7C+C+%26+Web+Full+Stack;Always+learning+and+building+projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF13F0&center=true&vCenter=true&random=false&width=600&lines=Web+development+student;Holberton+School+%7C+C+%26+Web+Full+Stack;Always+learning+and+building+projects"
     alt="Typing animation"
   />
 </p>
