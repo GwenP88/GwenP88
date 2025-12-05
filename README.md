@@ -1,5 +1,3 @@
-## Crafting code, one project at a time ⚙️
-
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
