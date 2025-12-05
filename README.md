@@ -117,6 +117,7 @@
   </span>
 </h2>
 
+<!-- Petite animation d’intro -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=1000&color=FF2E88&center=true&vCenter=true&width=550&lines=Here+are+my+GitHub+stats;Because+commits+tell+a+better+story"
@@ -124,48 +125,50 @@
   />
 </p>
 
+<!-- SUMMARY CARDS EN THEME 2077 -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=2077"
     alt="Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=2077"
     alt="Repos per Language"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=2077"
     alt="Most Commit Language"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=2077"
     alt="Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=radical&utcOffset=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=2077&utcOffset=1"
     alt="Productive Time"
   />
 </p>
 
 ---
 
-<!-- STREAKS + TROPHIES -->
+<!-- STREAKS (pas de theme 2077, on prend un proche: tokyonight) -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=GwenP88&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=GwenP88&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
+<!-- TROPHIES (pas de theme 2077 non plus, on reste sur tokyonight) -->
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=radical&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=GwenP88&theme=tokyonight&no-frame=true&row=1&column=6"
     alt="GitHub Trophies"
   />
 </p>
