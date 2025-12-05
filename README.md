@@ -112,10 +112,18 @@
 
 <!-- GITHUB STATS -->
 <h2 align="center">
-  <span style="background: linear-gradient(90deg, #5b5555ff, #d1210aff); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #ff2e88, #a855f7, #06b6d4); -webkit-background-clip: text; color: transparent;">
     GitHub Stats
   </span>
 </h2>
+
+<!-- Petite animation de texte -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=1000&color=FF2E88&center=true&vCenter=true&width=500&lines=Here+are+my+GitHub+stats;Because+commits+tell+a+better+story"
+    alt="GitHub stats intro"
+  />
+</p>
 
 <p align="center">
   <img
@@ -148,7 +156,7 @@
 
 ---
 
-<!-- STREAKS + TROPHIES OPTIONNELS -->
+<!-- STREAKS + TROPHIES -->
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=GwenP88&theme=radical&hide_border=true"
