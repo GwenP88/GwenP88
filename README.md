@@ -116,9 +116,9 @@
     GitHubs Stats 👋
   </span></h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=radical" alt="Commits per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=radical&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=dark" alt="Commits per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=dark&utcOffset=1" alt="Productive Time" />
 </p>
