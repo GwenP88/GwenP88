@@ -3,7 +3,7 @@
 <!-- HEADER AVEC ANIMATION DE TEXTE -->
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
-<p align="center" style="color:#ff2e88;">
+<p align="center" style="color:#ff13f0;">
   Web development student<br/>
   Holberton School | C &amp; Web Full Stack<br/>
   Always learning and building projects
