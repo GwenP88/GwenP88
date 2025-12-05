@@ -117,7 +117,6 @@
   </span>
 </h2>
 
-<!-- Petite “animation” de texte avec ta couleur rose -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=1000&color=FF2E88&center=true&vCenter=true&width=550&lines=Here+are+my+GitHub+stats;Because+commits+tell+a+better+story"
