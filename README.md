@@ -4,9 +4,9 @@
 <h1 align="center">Hi, I'm Gwen 👋</h1>
 
 <p align="center">
-  <font color="#ff13f0">Web development student</font><br/>
-  <font color="#a855f7">Holberton School | C &amp; Web Full Stack</font><br/>
-  <font color="#06b6d4">Always learning and building projects</font>
+  <font color="#ff13f0">Coding my way through Holberton</font><br/>
+  <font color="#a855f7">Powered by C, curiosity &amp; questionable amounts of coffee</font><br/>
+  <font color="#06b6d4">Always learning. Always debugging. Always building.</font>
 </p>
 
 <!-- TECH BADGES + ANIMATION -->
