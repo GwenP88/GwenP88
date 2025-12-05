@@ -119,6 +119,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GwenP88&theme=midnight_purple" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GwenP88&theme=midnight_purple" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GwenP88&theme=midnight_purple" alt="Commits per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=midnight_purple" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=midnight_purple&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GwenP88&theme=outrun" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GwenP88&theme=outrun&utcOffset=1" alt="Productive Time" />
 </p>
