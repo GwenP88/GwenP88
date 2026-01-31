@@ -114,7 +114,7 @@
   />
   <!-- 9 : Python -->
   <img
-    src="https://img.shields.io/badge/Python-6480FF?style=for-the-badge&logo=python&logoColor=000000"
+    src="https://img.shields.io/badge/Python-89E051?style=for-the-badge&logo=python&logoColor=000000"
     alt="Python"
   />
 </p>
