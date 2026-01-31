@@ -6,8 +6,8 @@
 <div align="center">
   <p>
     <span style="color:#FF1AFF;">Coding my way through Holberton</span><br/>
-    <span style="color:#FFCC00;">Powered by C, curiosity &amp; questionable amounts of coffee</span><br/>
-    <span style="color:#6480FF;">Always learning. Always debugging. Always building.</span>
+    <span style="color:#FFCC00;">Powered by curiosity, coffee &amp; a love for building things</span><br/>
+    <span style="color:#6480FF;">Always learning. Always debugging. Always improving.</span>
   </p>
 </div>
 
