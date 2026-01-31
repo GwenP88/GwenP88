@@ -54,11 +54,11 @@
 <h2 align="center">About me ✨</h2>
 
 <ul>
-  <li>🔭 <strong>Currently working on :</strong> surviving Holberton’s low-level projects (yes, I chose this life)</li>
-  <li>🌱 <strong>Currently learning :</strong> how to convince my brain that pointers are my friends, not enemies</li>
-  <li>👯 <strong>Looking to collaborate on :</strong> small C or web projects — bonus points if we can debug together without crying</li>
-  <li>🤔 <strong>Looking for help with :</strong> mastering advanced C concepts and writing clean architecture instead of accidental spaghetti code</li>
-  <li>💬 <strong>Ask me about :</strong> my journey, Holberton School, or how you learn to enjoy the challenges that weren’t originally part of the plan</li>
+  <li>🔭 <strong>Currently working on :</strong> building projects across low-level, scripting, and web fundamentals</li>
+  <li>🌱 <strong>Currently learning :</strong> C, Python, and how to write clean, maintainable code (even on chaotic days)</li>
+  <li>👯 <strong>Looking to collaborate on :</strong> beginner-friendly projects (C, Python, or web) — bonus points if we debug together</li>
+  <li>🤔 <strong>Looking for help with :</strong> architecture, best practices, and leveling up problem-solving skills</li>
+  <li>💬 <strong>Ask me about :</strong> my Holberton journey, learning strategies, or turning challenges into progress</li>
   <li>📫 <strong>Reach me at :</strong> (LinkedIn / portfolio coming soon — work in progress, just like me)</li>
   <li>⚡ <strong>Fun fact :</strong> I fix bugs the same way I make coffee: step by step, with determination and a hint of chaos</li>
 </ul>
@@ -111,6 +111,11 @@
   <img
     src="https://img.shields.io/badge/VS%20Code-FF1AFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000"
     alt="VS Code"
+  />
+  <!-- 9 : Python -->
+  <img
+    src="https://img.shields.io/badge/Python-6480FF?style=for-the-badge&logo=python&logoColor=000000"
+    alt="Python"
   />
 </p>
 
