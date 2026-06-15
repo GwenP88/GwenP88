@@ -54,13 +54,15 @@
 <h2 align="center">About me ✨</h2>
 
 <ul>
-  <li>🔭 <strong>Currently working on :</strong> building projects across low-level, scripting, and web fundamentals</li>
-  <li>🌱 <strong>Currently learning :</strong> C, Python, and how to write clean, maintainable code (even on chaotic days)</li>
-  <li>👯 <strong>Looking to collaborate on :</strong> beginner-friendly projects (C, Python, or web) — bonus points if we debug together</li>
-  <li>🤔 <strong>Looking for help with :</strong> architecture, best practices, and leveling up problem-solving skills</li>
-  <li>💬 <strong>Ask me about :</strong> my Holberton journey, learning strategies, or turning challenges into progress</li>
-  <li>📫 <strong>Reach me at :</strong> (LinkedIn / portfolio coming soon — work in progress, just like me)</li>
-  <li>⚡ <strong>Fun fact :</strong> I fix bugs the same way I make coffee: step by step, with determination and a hint of chaos</li>
+  <li>🎓 <strong>Currently studying :</strong> web development at Holberton School</li>
+  <li>🔭 <strong>Currently working on :</strong> a complete website redesign for an association using React, Node.js, PostgreSQL, Prisma, Docker and Git</li>
+  <li>🌱 <strong>Currently learning :</strong> full-stack architecture, backend logic, databases, Docker workflows and cleaner project structure</li>
+  <li>💻 <strong>Also practicing :</strong> C, Shell, JavaScript, React and accessibility basics</li>
+  <li>👯 <strong>Looking to collaborate on :</strong> small web projects, React interfaces or beginner-friendly full-stack projects</li>
+  <li>🤔 <strong>Looking for help with :</strong> improving backend architecture, writing cleaner code and gaining confidence with full-stack workflows</li>
+  <li>💬 <strong>Ask me about :</strong> my career change, Holberton School, learning C, or building a real project while still learning</li>
+  <li>📫 <strong>Reach me at :</strong> LinkedIn / portfolio coming soon</li>
+  <li>⚡ <strong>Fun fact :</strong> I debug like I make coffee: step by step, with determination and a little bit of chaos</li> 
 </ul>
 
 ---
@@ -71,28 +73,46 @@
 <p align="center">
   <!-- 1 : C -->
   <img
-    src="https://img.shields.io/badge/C-FFCC00?style=for-the-badge&logo=c&logoColor=000000"
-    alt="C"
+    src="https://img.shields.io/badge/C-FFCC00?style=for-the-badge&logo=c&logoColor=000000" alt="C"
   />
   <!-- 2 : Shell -->
   <img
-    src="https://img.shields.io/badge/Shell-FF1AFF?style=for-the-badge&logo=gnu-bash&logoColor=000000"
-    alt="Shell"
+    src="https://img.shields.io/badge/Shell-FF1AFF?style=for-the-badge&logo=gnu-bash&logoColor=000000" alt="Shell"
   />
   <!-- 3 : HTML5 -->
   <img
-    src="https://img.shields.io/badge/HTML5-89E051?style=for-the-badge&logo=html5&logoColor=000000"
-    alt="HTML5"
+    src="https://img.shields.io/badge/HTML5-89E051?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML5"
   />
   <!-- 4 : CSS3 -->
   <img
-    src="https://img.shields.io/badge/CSS3-FFCC00?style=for-the-badge&logo=css3&logoColor=ffffff"
-    alt="CSS3"
+    src="https://img.shields.io/badge/CSS3-FFCC00?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"
   />
   <!-- 5 : JavaScript -->
   <img
-    src="https://img.shields.io/badge/JavaScript-6480FF?style=for-the-badge&logo=javascript&logoColor=000000"
-    alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-6480FF?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"
+  />
+</p>
+
+<p align="center">
+  <!-- 6 : Python -->
+  <img
+    src="https://img.shields.io/badge/Python-89E051?style=for-the-badge&logo=python&logoColor=000000" alt="Python"
+  />
+  <!-- 7 : react -->
+  <img
+    <img src="https://img.shields.io/badge/React-89E051?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+  />
+  <!-- 8 : Node.js -->
+  <img
+    <img src="https://img.shields.io/badge/Node.js-FFCC00?style=for-the-badge&logo=node.js&logoColor=000000" alt="Node.js" />
+  />
+  <!-- 9 : Express -->
+  <img
+    <img src="https://img.shields.io/badge/Express-FF1AFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
+  />
+  <!-- 10 : PostgreSQL -->
+  <img
+    <img src="https://img.shields.io/badge/PostgreSQL-6480FF?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
   />
 </p>
 
@@ -112,10 +132,13 @@
     src="https://img.shields.io/badge/VS%20Code-FF1AFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000"
     alt="VS Code"
   />
-  <!-- 9 : Python -->
+  <!-- 9 : Docker -->
   <img
-    src="https://img.shields.io/badge/Python-89E051?style=for-the-badge&logo=python&logoColor=000000"
-    alt="Python"
+    <img src="https://img.shields.io/badge/Docker-6480FF?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  />
+  <!-- 9 : Figma -->
+  <img
+    <img src="https://img.shields.io/badge/Figma-FFCC00?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
   />
 </p>
 
