@@ -82,28 +82,28 @@
     src="https://img.shields.io/badge/HTML5-89E051?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML5"/>
   <!-- 4 : CSS3 -->
   <img
-    src="https://img.shields.io/badge/CSS3-FFCC00?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
+    src="https://img.shields.io/badge/CSS3-6480FF?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
   <!-- 5 : JavaScript -->
   <img
-    src="https://img.shields.io/badge/JavaScript-6480FF?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+    src="https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
 </p>
 
 <p align="center">
   <!-- 6 : Python -->
   <img
-    src="https://img.shields.io/badge/Python-89E051?style=for-the-badge&logo=python&logoColor=000000" alt="Python"/>
+    src="https://img.shields.io/badge/Python-FF1AFF?style=for-the-badge&logo=python&logoColor=000000" alt="Python"/>
   <!-- 7 : react -->
   <img
     src="https://img.shields.io/badge/React-89E051?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
   <!-- 8 : Node.js -->
   <img
-    src="https://img.shields.io/badge/Node.js-FFCC00?style=for-the-badge&logo=node.js&logoColor=000000" alt="Node.js" />
+    src="https://img.shields.io/badge/Node.js-6480FF?style=for-the-badge&logo=node.js&logoColor=000000" alt="Node.js" />
   <!-- 9 : Express -->
   <img
-    src="https://img.shields.io/badge/Express-FF1AFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
+    src="https://img.shields.io/badge/Express-FFCC00?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
   <!-- 10 : PostgreSQL -->
   <img
-    src="https://img.shields.io/badge/PostgreSQL-6480FF?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+    src="https://img.shields.io/badge/PostgreSQL-FF1AFF?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
 </p>
 
 <p align="center">
@@ -115,13 +115,13 @@
     src="https://img.shields.io/badge/GitHub-6480FF?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
   <!-- 8 : VS Code -->
   <img
-    src="https://img.shields.io/badge/VS%20Code-FF1AFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000" alt="VS Code"/>
+    src="https://img.shields.io/badge/VS%20Code-FFCC00?style=for-the-badge&logo=visual-studio-code&logoColor=000000" alt="VS Code"/>
   <!-- 9 : Docker -->
   <img
-    src="https://img.shields.io/badge/Docker-6480FF?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
+    src="https://img.shields.io/badge/Docker-FF1AFF?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
   <!-- 9 : Figma -->
   <img
-    src="https://img.shields.io/badge/Figma-FFCC00?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
+    src="https://img.shields.io/badge/Figma-89E051?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
 </p>
 
 ---
