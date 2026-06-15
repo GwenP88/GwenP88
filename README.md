@@ -57,12 +57,12 @@
   <li>🎓 <strong>Currently studying :</strong> web development at Holberton School</li>
   <li>🔭 <strong>Currently working on :</strong> a complete website redesign for an association using React, Node.js, PostgreSQL, Prisma, Docker and Git</li>
   <li>🌱 <strong>Currently learning :</strong> full-stack architecture, backend logic, databases, Docker workflows and cleaner project structure</li>
-  <li>💻 <strong>Also practicing :</strong> C, Shell, JavaScript, React and accessibility basics</li>
+  <li>💻 <strong>Also practicing :</strong> C, Shell, JavaScript, React, web accessibility, and SEO best practices</li>
   <li>👯 <strong>Looking to collaborate on :</strong> small web projects, React interfaces or beginner-friendly full-stack projects</li>
   <li>🤔 <strong>Looking for help with :</strong> improving backend architecture, writing cleaner code and gaining confidence with full-stack workflows</li>
-  <li>💬 <strong>Ask me about :</strong> my career change, Holberton School, learning C, or building a real project while still learning</li>
+  <li>💬 <strong>Ask me about :</strong> my career change, Holberton School, learning software development, or what it's like to build a real full-stack project in just 6 weeks</li>
   <li>📫 <strong>Reach me at :</strong> LinkedIn / portfolio coming soon</li>
-  <li>⚡ <strong>Fun fact :</strong> I debug like I make coffee: step by step, with determination and a little bit of chaos</li> 
+  <li>⚡ <strong>Fun fact :</strong> I discovered that solving a bug is almost as satisfying as completing a 10,000-piece puzzle</li> 
 </ul>
 
 ---
