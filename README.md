@@ -41,7 +41,7 @@
   <!-- Animation de texte (typo dev) -->
   <p>
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&random=false&width=500&color=FF1AFF&cursorColor=6480FF&lines=Career+changer+turned+web+developer;Learning+C+%26+low-level+to+full-stack+web+projects;Always+learning+Always+debugging+Always+building"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2500&pause=800&center=true&vCenter=true&random=false&width=500&color=FF1AFF&cursorColor=6480FF&lines=Career+changer+turned+web+developer;Low-level+to+full-stack+web+projects;Always+learning+Always+debugging+Always+building"
       alt="Typing animation"
     />
   </p>
